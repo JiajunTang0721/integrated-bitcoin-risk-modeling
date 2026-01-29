@@ -1,8 +1,7 @@
 # Integrated Bitcoin Risk Modeling
 
 This repository presents an integrated financial risk management framework for Bitcoin,
-developed within the instructional framework of  
-**IEOR 4745 – Applied Financial Risk Management (Columbia University)**.
+developed within the instructional framework of  **IEOR 4745 – Applied Financial Risk Management (Columbia University)**.
 
 The project combines volatility modeling, market risk measurement, tail risk assessment,
 and regulatory-style backtesting into a unified analytical pipeline, with an empirical
