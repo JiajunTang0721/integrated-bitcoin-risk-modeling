@@ -1,3 +1,13 @@
+## 📄 Paper
+
+👉 **[Download the full paper (PDF)](paper/main.pdf)**
+
+This paper develops an integrated risk modeling framework for Bitcoin, covering:
+- EWMA volatility modeling
+- Parametric and historical VaR
+- Expected Shortfall (ES)
+- Regulatory backtesting (Kupiec test)
+
 # Integrated Bitcoin Risk Modeling
 
 This repository presents an integrated financial risk management framework for Bitcoin, developed within the instructional framework of IEOR 4745 Applied Financial Risk Management at Columbia University.
